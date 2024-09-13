@@ -3,10 +3,11 @@
 El taller 1 se enfoca en la creación y manejo de una Máquina Virtual en AWS (EC2), proporcionando una introducción a AWS Academy y enseñando a los estudiantes a acceder y manejar la máquina virtual, practicar comandos básicos de Linux y ejecutar programas en diversos lenguajes de programación.
 
 - Crear máquina virtual en AWS EC2
+- Acceder a la máquina virtual
+
   - `$ ssh -i ./.ssh/labsuser.pem ubuntu@reemplazarIP`
   - `$ ssh -i labsuser.pem ubuntu@reemplazarIP`
-  
-- Acceder a la máquina virtual
+- Comandos basicos de Linux
   - `ls -la`
   - `man ls`
   - `pwd`
