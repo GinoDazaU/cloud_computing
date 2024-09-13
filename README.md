@@ -14,7 +14,6 @@
 - Monitorear espacio ocupado y procesos en ejecución.
 - Uso de la máquina virtual en AWS (EC2).
 
---
 
 ### Semana 2: Taller 1 y Taller 2 de Contenedores
 
