@@ -34,3 +34,8 @@
 - Comandos básicos de Docker para la gestión de contenedores.
 - Creación de una imagen de contenedor para una página web simple.
 - Creación de una API REST con Python y Docker.
+
+#### Taller 2:
+- Subir imagen de contenedor a hub.docker.com.
+- Desplegar el contenedor en otras computadoras o máquinas virtuales.
+- Ejercicios propuestos: subir y desplegar imágenes adicionales en Docker.
