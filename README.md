@@ -15,14 +15,22 @@
 - Uso de la máquina virtual en AWS (EC2).
 
 
-### Semana 2: Taller 1 y Taller 2 de Contenedores
+### Semana 2: Taller 3 y Taller 4 de Virtualización con Máquinas Virtuales
+
+#### Taller 3:
+- Publicación de páginas web estáticas en una Máquina Virtual de AWS EC2.
+- Creación de una API REST usando Python y Node.js.
+- Ejecución de la API y pruebas con herramientas como Postman.
+
+#### Taller 4:
+- Introducción a la infraestructura como código (IaC) usando AWS CloudFormation.
+- Automatización de la creación y eliminación de máquinas virtuales en AWS.
+- Gestión de la infraestructura mediante AWS CLI.
+
+### Semana 3: Taller 1 y Taller 2 de Contenedores
 
 #### Taller 1:
 - Instalación de Docker en Ubuntu.
-- Comandos básicos de Docker para gestión de contenedores.
-- Creación de una imagen de contenedor para una página web simple y una API REST con Python.
-
-#### Taller 2:
-- Introducción a la infraestructura como código (IaC) con AWS CloudFormation.
-- Creación, gestión y eliminación de máquinas virtuales en AWS mediante AWS CLI.
-- Automatización de la infraestructura en AWS.
+- Comandos básicos de Docker para la gestión de contenedores.
+- Creación de una imagen de contenedor para una página web simple.
+- Creación de una API REST con Python y Docker.
